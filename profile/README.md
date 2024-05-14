@@ -1,4 +1,4 @@
-We are focused on building open software and engineering!
+We are focused on building open software and science!
 
 ## Currently working on: 
 [EyeGestures](https://github.com/NativeSensors/EyeGestures)
