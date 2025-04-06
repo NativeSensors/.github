@@ -5,7 +5,7 @@ We are focused on building open software and science!
 
 ## Community:
 
-Join us on discord: https://discord.gg/3ur62t6T
+Join us on [discord](https://discord.gg/FvagCX8T4h)!
 
 ## 📢 Announcements 📢:
 
